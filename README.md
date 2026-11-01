@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:0A3D62,100:00E5FF&text=Neil%20Shinde&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20Software%20Development&descAlignY=62&descSize=16" alt="Banner" width="100%">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Neil</h1>
@@ -17,7 +17,7 @@ Building practical software and exploring how AI can solve real-world problems.
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="https://github.com/ACE12345NEIL.png?size=280" width="220" alt="Neil Shinde"/>
+<img align="right" src="./assets/about.png" width="280" alt="Developer Illustration"/>
 
 **Neil Shinde**, here — a Computer Science student interested in AI/ML and software development.
 
